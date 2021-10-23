@@ -1,0 +1,29 @@
+.custom{
+    margin-top: 20px;
+    width: 450px;
+    height: 298px;
+    border-radius: 5px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    padding-left: 8px;
+}
+a{
+    color: black;
+}
+.menu-li{
+    background: white;
+    margin:5px;
+    padding: 10px;
+    margin-right: 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.menu-li:hover{
+    background: peru;
+    opacity: .8;
+}
+.font{
+    font-size: 28px;
+}
